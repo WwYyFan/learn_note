@@ -1,0 +1,15 @@
+网上同步时间
+
+    1.  安装ntpdate工具
+
+    # sudo apt-get install ntpdate
+
+    2.  设置系统时间与网络时间同步
+
+    # ntpdate cn.pool.ntp.org
+
+    3.  将系统时间写入硬件时间
+
+    # hwclock –systohc
+
+cn.pool.ntp.org是位于中国的公共NTP服务器，用来同步你的时间(如果你的时间与服务器的时间截不同的话，可能无法同步时间哟，甚至连sudo reboot这样的指令也无法执行)。
