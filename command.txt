@@ -13,3 +13,9 @@
     # hwclock –systohc
 
 cn.pool.ntp.org是位于中国的公共NTP服务器，用来同步你的时间(如果你的时间与服务器的时间截不同的话，可能无法同步时间哟，甚至连sudo reboot这样的指令也无法执行)。
+
+
+用户名 whoami
+ip  ifconfig wlp3s0 | grep "inet 地址" | awk '{ print $2}' | awk -F: '{print $2}'
+
+
