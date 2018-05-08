@@ -1,4 +1,4 @@
-网上同步时间
+﻿网上同步时间
 
     1.  安装ntpdate工具
 
@@ -19,3 +19,15 @@ cn.pool.ntp.org是位于中国的公共NTP服务器，用来同步你的时间(�
 ip  ifconfig wlp3s0 | grep "inet 地址" | awk '{ print $2}' | awk -F: '{print $2}'
 
 
+搜索想要的软件包 
+apt-cache search dtc
+
+
+查询两个ip是否相通
+curl http:://192.168.0.10
+
+
+挂载虚拟内存
+1.dd  if = /dev/zero  of = swap.img  bs = 1M  count=1024
+2.mkswap swap.img
+3.swapon swap.img
