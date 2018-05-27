@@ -31,3 +31,11 @@ curl http:://192.168.0.10
 1.dd  if = /dev/zero  of = swap.img  bs = 1M  count=1024
 2.mkswap swap.img
 3.swapon swap.img
+
+查看.so 文件的架构
+readelf -h ***.so
+
+
+
+ros urdf 文件详细介绍
+https://blog.csdn.net/sunanger/article/details/52933154
