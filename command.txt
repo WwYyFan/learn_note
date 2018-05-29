@@ -39,3 +39,6 @@ readelf -h ***.so
 
 ros urdf 文件详细介绍
 https://blog.csdn.net/sunanger/article/details/52933154
+
+linux nc 命令详解【扫描端口、聊天工具、传输文件】
+https://blog.csdn.net/caoshuming_500/article/details/23755713
