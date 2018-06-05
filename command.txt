@@ -46,3 +46,6 @@ https://blog.csdn.net/caoshuming_500/article/details/23755713
 
 gtest Ros测试工具
 http://ysonggit.github.io/coding/2014/12/19/use-gtest-in-ros-program.html
+
+ros dynamic_reconfigure
+https://blog.csdn.net/CSDNhuaong/article/details/78607184
