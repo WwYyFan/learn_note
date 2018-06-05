@@ -35,7 +35,8 @@ curl http:://192.168.0.10
 查看.so 文件的架构
 readelf -h ***.so
 
-
+文件/文件系统的详细信息显示
+stat filename
 
 ros urdf 文件详细介绍
 https://blog.csdn.net/sunanger/article/details/52933154
