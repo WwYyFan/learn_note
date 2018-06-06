@@ -50,3 +50,9 @@ http://ysonggit.github.io/coding/2014/12/19/use-gtest-in-ros-program.html
 
 ros dynamic_reconfigure
 https://blog.csdn.net/CSDNhuaong/article/details/78607184
+
+#在当面目录下查找所有普通文件，并用grep命令在搜索到的文件中查找hostname这个词
+find . -type f -print | xargs grep "hostname"
+
+#在当前目录查找名字包含“hostname”的普通文件
+find . -type f -name "hostname"
