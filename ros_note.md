@@ -46,5 +46,5 @@
 )
   
   add_library(B src/we_move.cpp) 
-  add_dependencies(B ${${PROJECT_NAME}_EXPORTED_TARGETS}  						${catkin_EXPORTED_TARGETS})
+  add_dependencies(B ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
   ```
