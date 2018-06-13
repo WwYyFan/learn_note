@@ -3,15 +3,15 @@
 #### ros包 引用头文件
  1. 引用本包头文件
  ```
- 	CMakeList.txt
- 	~~~~~~~~~~~~~~~~~~~~~~
-	catkin_package(INCLUDE_DIRS include)
+ CMakeList.txt
+ ~~~~~~~~~~~~~~~~~~~~~~
+ catkin_package(INCLUDE_DIRS include)
     
-   include_directories(
-   	include ${catkin_INCLUDE_DIRS}
-   	include
-  	${catkin_INCLUDE_DIRS}
-   )
+ include_directories(
+    include ${catkin_INCLUDE_DIRS}
+    include
+    ${catkin_INCLUDE_DIRS}
+)
  ```
  
  2. A包 引用 B包头文件、
