@@ -48,3 +48,5 @@
   add_library(B src/we_move.cpp) 
   add_dependencies(B ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
   ```
+
+ *注 ： 头文件不加add_executable 和 add_dependencies
