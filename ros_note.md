@@ -28,7 +28,7 @@
 
  package.xml
  ~~~~~~~~~~~~~~~~~~~~~~
- <depend>test_head</depend>
+ <depend>B</depend>
  ```
  - B package
   ```
