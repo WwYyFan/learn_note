@@ -6,3 +6,5 @@
 - string中 c_str()包含'\0' data()可不包含'\0'
 - const char* 与 char* const 区别 ：https://www.cnblogs.com/belfuture/p/5862110.html  
                                     https://blog.csdn.net/swibyn/article/details/20052371
+- 1.加了const的成员函数可以被非const对象和const对象调用，但不加const的成员函数只能被非const对象调用<br>
+  2.const对象不可调用非const成员函数
