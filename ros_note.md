@@ -12,6 +12,8 @@
     include
     ${catkin_INCLUDE_DIRS}
 )
+
+头文件不用添加add_executable  add_dependecies  target_link_libraries
  ```
  
  2. A包 引用 B包头文件、
