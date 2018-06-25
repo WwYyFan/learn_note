@@ -57,3 +57,42 @@
 #### roslaunch 的启动参数 arg, 它与launch中的param, rosparam有很大不同。
  parameter是运行中的ROS系统使用的数值，存储在参数服务器（parameter server）中，每个活跃的节点都可以通过 ros::param::get 或NodeHandle中函数来获取parameter的值，用户也可以通过rosparam来获得parameter的值。
 而argument只在启动文件内才有意义他们的值是不能被节点直接获取的。
+
+#### 引用其他库文件（例子：引用halcon库)
+```
+   link_directories(
+  /opt/halcon/lib/x64-linux
+  /opt/halcon/lib/x64-linux/qt
+)
+
+include_directories(
+  include ${catkin_INCLUDE_DIRS}
+  include
+  ${catkin_INCLUDE_DIRS}
+  /opt/halcon/include
+  /opt/halcon/include/cpp
+  /opt/halcon/include/halconcpp
+  /opt/halcon/include/halconc
+  /opt/halcon/include/hdevengine
+  /opt/halcon/include/hdevengine10
+  /opt/halcon/include/hlib
+)
+
+file(GLOB LIBS /opt/halcon/lib/x64-linux/lib*.so)
+
+FOREACH(src ${LIBS})
+   MESSAGE(${src})
+   link_libraries(${src})
+endforeach()
+
+add_executable(halcon_test
+  src/halcon_test.cpp
+)
+add_dependencies(halcon_test ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(halcon_test
+  ${catkin_LIBRARIES} 
+)
+```
+
+#### rosrun package a.py
+Python文件 记得修改权限后  才能rosrun
