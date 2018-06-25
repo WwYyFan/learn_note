@@ -96,3 +96,8 @@ target_link_libraries(halcon_test
 
 #### rosrun package a.py
 Python文件 记得修改权限后  才能rosrun
+
+
+#### 在 node 元素中使用 output 属性：
+output=”screen”
+带这个属性启动的节点会将标准输出信息显示在终端的窗口中，而不会保存在日志文件中。这也 解释 了为什么这个带有output=”screen”的节点（node） 的日志文件在上面日志文件列表中丢失的原因。 
