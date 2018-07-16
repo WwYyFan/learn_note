@@ -13,6 +13,8 @@ kcptun: https://github.com/xtaci/kcptun
         KCP Server: ./server_linux_amd64 -t "TARGET_IP:8388" -l ":4000" -mode fast2
         8388 -> change to shadowsock  port    KCP_SERVER_IP ->  kcp port
 vps   : linode 
+
+google SwitchyOmega :  https://blog.csdn.net/shouldnotappearcalm/article/details/77900399
 ```
 
 jump jump jump!!!!
