@@ -1,5 +1,10 @@
 ## Ros Note
 
+#### ros 安装 Hash检验和不符
+ ```
+     更换源  https://blog.csdn.net/CattonBoom/article/details/80118177
+ ```
+
 #### ros包 引用头文件
  1. 引用本包头文件
  ```
