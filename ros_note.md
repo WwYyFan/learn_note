@@ -129,3 +129,6 @@ http://www.voidcn.com/article/p-ehbmkpnz-bcg.html
 
 ### ros 软件包源
  https://blog.csdn.net/u013039705/article/details/80268575
+ 
+### robotiq 
+https://blog.csdn.net/sinat_37011812/article/details/79965957
