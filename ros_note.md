@@ -118,3 +118,11 @@ https://blog.csdn.net/sinat_27554409/article/details/48446553
 
 ###  ros z资料
 http://www.voidcn.com/article/p-ehbmkpnz-bcg.html
+
+### ros moveit
+```使用moveit,在编译工作空间时遇到 /opt/ros/kinetic/include/moveit/macros/declare_ptr.h:52:16: error: ‘shared_ptr’ in namespace 
+‘std’ does not name a template type typedef std::shared_ptr<Type> Name##Ptr
+原因：不是使用c++11 ，
+解决：https://github.com/ros-planning/moveit/issues/462 在相应功能包的CMakeLists.txt中添加 add_compile_options(-std=c++11)
+     
+``` 
