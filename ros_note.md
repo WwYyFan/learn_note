@@ -126,3 +126,6 @@ http://www.voidcn.com/article/p-ehbmkpnz-bcg.html
 解决：https://github.com/ros-planning/moveit/issues/462 在相应功能包的CMakeLists.txt中添加 add_compile_options(-std=c++11)
      
 ``` 
+
+### ros 软件包源
+ https://blog.csdn.net/u013039705/article/details/80268575
