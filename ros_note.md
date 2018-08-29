@@ -110,6 +110,9 @@ output=”screen”
 ###  ros双目标定
 rosrun camera_calibration cameracalibrator.py --size 8x6 --square 0.108 --no-service-check --approximate=0.1 right:=/right/camera/image_raw left:=/left/camera/image_raw right_camera:=/right/camera left_camera:=/left/camer
 
+### ros mynteye
+https://slightech.github.io/MYNT-EYE-SDK/calibrate_with_opencv.html
+
 ###  ros注意事项
 https://blog.csdn.net/weixin_42268975/article/details/80842175
 
