@@ -135,3 +135,6 @@ http://www.voidcn.com/article/p-ehbmkpnz-bcg.html
  
 ### robotiq 
 https://blog.csdn.net/sinat_37011812/article/details/79965957
+
+### ros moveit 
+https://blog.csdn.net/wxflamy/article/category/7410765/2
