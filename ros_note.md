@@ -141,5 +141,9 @@ https://blog.csdn.net/sinat_37011812/article/details/79965957
 https://blog.csdn.net/wxflamy/article/category/7410765/2
 https://blog.csdn.net/kalenee/article/category/7084979
 
+### RPY与四元数的转换
+ros : https://blog.csdn.net/flyfish1986/article/details/81634577
+c++ :https://blog.csdn.net/zhuoyueljl/article/details/70789472?locationNum=4&fps=1
+
 ### ros book
 https://github.com/wsnewman/learning_ros_kinetic
