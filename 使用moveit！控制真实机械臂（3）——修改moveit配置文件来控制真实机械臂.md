@@ -73,6 +73,13 @@ joints：这里是你机器人（机械臂）的关节名称，这些名称源�
 
 到此为止，moveit配置文件中所有应该修改的文件就修改完了，moveit已经准备好了将规划的轨迹以action的形式发送给真实机械臂，后面的内容将是如何利用好action这里的信息，实现真正的机械臂控制。
 
+
+#### 运行
+```
+1. ur_bringup.launch
+2. demo.launch
+```
+
 ---------------------
 
-本文来自 爱学习的草莓熊 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/lingchen2348/article/details/80300069?utm_source=copy 
+**本文来自 爱学习的草莓熊 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/lingchen2348/article/details/80300069?utm_source=copy 
