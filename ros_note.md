@@ -123,8 +123,8 @@ https://blog.csdn.net/sinat_27554409/article/details/48446553
 http://www.voidcn.com/article/p-ehbmkpnz-bcg.html
 
 ### ros moveit
-https://blog.csdn.net/lingchen2348/article/details/80300069
-https://blog.csdn.net/wxflamy/article/category/7410765/2
+https://blog.csdn.net/lingchen2348/article/details/80300069</br>
+https://blog.csdn.net/wxflamy/article/category/7410765/2</br>
 https://blog.csdn.net/kalenee/article/category/7084979
 ```使用moveit,在编译工作空间时遇到 /opt/ros/kinetic/include/moveit/macros/declare_ptr.h:52:16: error: ‘shared_ptr’ in namespace 
 ‘std’ does not name a template type typedef std::shared_ptr<Type> Name##Ptr
