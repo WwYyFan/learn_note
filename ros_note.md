@@ -149,3 +149,7 @@ https://github.com/wsnewman/learning_ros_kinetic
 
 ### ros手眼标定
 https://blog.csdn.net/weixin_40799950/article/details/82594537
+
+### ros有趣项目
+https://github.com/BatyaGG/BCI-controlled-UR-manipulator</br>
+https://github.com/davetcoleman/moveit_simple_grasps/<br>
