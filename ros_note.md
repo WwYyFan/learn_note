@@ -146,3 +146,6 @@ c++ :https://blog.csdn.net/zhuoyueljl/article/details/70789472?locationNum=4&fps
 
 ### ros book
 https://github.com/wsnewman/learning_ros_kinetic
+
+### ros手眼标定
+https://blog.csdn.net/weixin_40799950/article/details/82594537
