@@ -158,3 +158,5 @@ https://github.com/flores-jacob/RoboND-Perception-Project</br>
 
 ### ros qt
 https://www.ncnynl.com/archives/201701/1277.html
+
+stereo_image_proc会自动根据camera校正结果发布修正后的图像和3D的topic.
