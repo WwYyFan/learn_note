@@ -155,3 +155,6 @@ https://github.com/BatyaGG/BCI-controlled-UR-manipulator</br>
 https://github.com/davetcoleman/moveit_simple_grasps/<br>
 https://github.com/andyzeng/apc-vision-toolbox</br>
 https://github.com/flores-jacob/RoboND-Perception-Project</br>
+
+### ros qt
+https://www.ncnynl.com/archives/201701/1277.html
