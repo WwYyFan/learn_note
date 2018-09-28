@@ -129,6 +129,7 @@ https://blog.csdn.net/kalenee/article/category/7084979</br>
 http://www.360doc.com/content/16/0825/16/7821691_585865831.shtml ---> 双臂</br>
 https://hk.saowen.com/a/a67ac25f4bccd04a9c4d17bc5b6adebdbd3c1d23d01e2a5426c7d2ca9c72e925</br>
 https://github.com/blodow/realtime_urdf_filter</br>
+http://www.gaitech.net/news1.asp?sid=58</br>
 ```使用moveit,在编译工作空间时遇到 /opt/ros/kinetic/include/moveit/macros/declare_ptr.h:52:16: error: ‘shared_ptr’ in namespace 
 ‘std’ does not name a template type typedef std::shared_ptr<Type> Name##Ptr
 原因：不是使用c++11 ，
