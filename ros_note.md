@@ -164,4 +164,7 @@ https://github.com/flores-jacob/RoboND-Perception-Project</br>
 https://www.ncnynl.com/archives/201701/1277.html</br>
 https://blog.csdn.net/u014610460/article/details/79355533</br>
 
+### ros修改moveit中的运动学插件
+http://www.guyuehome.com/1921</br>
+
 stereo_image_proc会自动根据camera校正结果发布修正后的图像和3D的topic.
