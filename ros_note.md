@@ -167,4 +167,7 @@ https://blog.csdn.net/u014610460/article/details/79355533</br>
 ### ros修改moveit中的运动学插件
 http://www.guyuehome.com/1921</br>
 
+### ros 坐标系
+https://blog.csdn.net/scliu12345/article/details/44658175</br>
+
 stereo_image_proc会自动根据camera校正结果发布修正后的图像和3D的topic.
