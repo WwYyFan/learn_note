@@ -179,4 +179,5 @@ https://rtt-lwr.readthedocs.io/en/latest/tutos/orocos-tuto.html
 
 ### moveit平滑
 https://www.codetd.com/article/869160</br>
-http://www.guyuehome.com/752?replytocom=48315
+http://www.guyuehome.com/752?replytocom=48315</br>
+https://blog.csdn.net/weixin_28900531/article/details/79431055
