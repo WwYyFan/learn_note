@@ -173,3 +173,10 @@ https://blog.csdn.net/scliu12345/article/details/44658175</br>
 ### ros plugin
 https://ros.guru/2018/02/12/10-useful-ros-tools/</br>
 stereo_image_proc会自动根据camera校正结果发布修正后的图像和3D的topic.
+
+### OROCOS
+https://rtt-lwr.readthedocs.io/en/latest/tutos/orocos-tuto.html
+
+### moveit平滑
+https://www.codetd.com/article/869160</br>
+http://www.guyuehome.com/752?replytocom=48315
