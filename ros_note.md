@@ -181,3 +181,6 @@ https://rtt-lwr.readthedocs.io/en/latest/tutos/orocos-tuto.html
 https://www.codetd.com/article/869160</br>
 http://www.guyuehome.com/752?replytocom=48315</br>
 https://blog.csdn.net/weixin_28900531/article/details/79431055
+
+### moveit 笛卡尔路径规划速度控制
+https://github.com/epfl-lasa/ridgeback_ur5_controller
