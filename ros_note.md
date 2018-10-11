@@ -184,3 +184,6 @@ https://blog.csdn.net/weixin_28900531/article/details/79431055
 
 ### moveit 笛卡尔路径规划速度控制
 https://github.com/epfl-lasa/ridgeback_ur5_controller
+
+### ros kinect
+https://blog.csdn.net/sunyoop/article/details/78517247
