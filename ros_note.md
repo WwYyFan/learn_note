@@ -194,3 +194,6 @@ https://blog.csdn.net/weixin_40799950/article/details/81911877</br>
 https://blog.csdn.net/zhangrelay/article/details/77248232</br>
 https://blog.techbridge.cc/2016/05/14/ros-object-recognition-kitchen/</br>
 http://wg-perception.github.io/ork_tutorials/index.html
+
+### ros marker 生成器
+http://keystone.umd.edu/html/markergen.html
