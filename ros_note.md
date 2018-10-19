@@ -204,3 +204,6 @@ https://blog.csdn.net/ZhangRelay
 ### ros修改 轨迹速度？？
 https://answers.ros.org/question/264957/moveit-trajectory-only-providing-translation-not-velocity-or-acceleration/</br>
 https://groups.google.com/forum/#!topic/moveit-users/7n45S8DUjys
+
+### robot operation system coobook 
+https://books.google.com/books?id=68RiDwAAQBAJ&pg=PA359&lpg=PA359&dq=multi_dof_joint_trajectory&source=bl&ots=DyShiHlalU&sig=IKXDa8ik0tuyolDevSITBeqSfkw&hl=en&sa=X&ved=2ahUKEwjKkafyiJLeAhXCj1QKHWwnBF84ChDoATAIegQIAhAB#v=onepage&q=multi_dof_joint_trajectory&f=false
