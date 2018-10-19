@@ -202,4 +202,5 @@ http://keystone.umd.edu/html/markergen.html
 https://blog.csdn.net/ZhangRelay
 
 ### ros修改 轨迹速度？？
-https://answers.ros.org/question/264957/moveit-trajectory-only-providing-translation-not-velocity-or-acceleration/
+https://answers.ros.org/question/264957/moveit-trajectory-only-providing-translation-not-velocity-or-acceleration/</br>
+https://groups.google.com/forum/#!topic/moveit-users/7n45S8DUjys
