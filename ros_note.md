@@ -211,3 +211,6 @@ https://books.google.com/books?id=68RiDwAAQBAJ&pg=PA359&lpg=PA359&dq=multi_dof_j
 ### ros倒入scene文件
 https://answers.ros.org/question/287394/moveit-import-scene-from-text-automatically/</br>
 下载dae模型:http://models.gazebosim.org/
+
+### ros功能包下载
+https://mirror.vtti.vt.edu/packages.ros.org/ros/ubuntu/pool/main/r/
