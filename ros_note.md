@@ -214,3 +214,6 @@ https://answers.ros.org/question/287394/moveit-import-scene-from-text-automatica
 
 ### ros功能包下载
 https://mirror.vtti.vt.edu/packages.ros.org/ros/ubuntu/pool/main/r/
+
+### ply to pcd
+pcl_ply2pcd -format 0 cloud.ply cloud.pcd
