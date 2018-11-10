@@ -56,3 +56,8 @@ find . -type f -print | xargs grep "hostname"
 
 #在当前目录查找名字包含“hostname”的普通文件
 find . -type f -name "hostname"
+
+ubuntu命令行启动wifi并开机自启动
+https://www.2cto.com/kf/201705/638759.html
+https://jingyan.baidu.com/article/c74d60007b87510f6a595dfc.html
+https://blog.csdn.net/hzkdac1007/article/details/46813673
