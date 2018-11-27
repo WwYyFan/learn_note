@@ -220,3 +220,9 @@ pcl_ply2pcd -format 0 cloud.ply cloud.pcd
 
 ### DEX-NET
 http://berkeleyautomation.github.io/dex-net/
+
+### tabletop_object
+http://wiki.ros.org/tabletop_object_detector
+
+### cob_object_detect
+http://wiki.ros.org/cob_object_detection
