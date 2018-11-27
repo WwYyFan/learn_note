@@ -217,3 +217,6 @@ https://mirror.vtti.vt.edu/packages.ros.org/ros/ubuntu/pool/main/r/
 
 ### ply to pcd
 pcl_ply2pcd -format 0 cloud.ply cloud.pcd
+
+### DEX-NET
+http://berkeleyautomation.github.io/dex-net/
