@@ -229,3 +229,6 @@ http://wiki.ros.org/cob_object_detection
 
 ### ros 简书
 https://www.jianshu.com/p/de1654877f50
+
+### 四元数与RPY在线转换
+https://quaternions.online/
