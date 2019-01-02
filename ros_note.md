@@ -226,3 +226,6 @@ http://wiki.ros.org/tabletop_object_detector
 
 ### cob_object_detect
 http://wiki.ros.org/cob_object_detection
+
+### ros 简书
+https://www.jianshu.com/p/de1654877f50
