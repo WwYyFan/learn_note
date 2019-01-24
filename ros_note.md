@@ -233,3 +233,6 @@ https://www.jianshu.com/p/de1654877f50
 ### 四元数与RPY在线转换
 https://quaternions.online/ </br>
 https://www.andre-gaschler.com/rotationconverter/
+
+
+#### 综上所述，机器人作为ModbusTCP服务器，上位机通过502端口可以控制机器人的所有IO;上位机可以通过30001或30002或30003端口远程下载程序到机器人；上位机通过29999端口可以远程控制程序运行状态；上位机通过30003端口可以实时得到机器人的状态信息。也就是说，利用UR机器人开放的基于TCP/IP协议的端口，可以制作自己的Polyscope软件，实现上位机的远程控制。
