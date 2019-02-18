@@ -239,3 +239,7 @@ https://www.andre-gaschler.com/rotationconverter/
 
 ### ros 博客园
 https://www.cnblogs.com/shangchele/p/7328187.html
+
+### vs2015 配置pcl
+https://blog.csdn.net/bbhhtt/article/details/81156437</br>
+https://bbs.csdn.net/topics/390930955?page=1
