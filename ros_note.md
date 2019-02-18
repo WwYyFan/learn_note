@@ -242,4 +242,5 @@ https://www.cnblogs.com/shangchele/p/7328187.html
 
 ### vs2015 配置pcl
 https://blog.csdn.net/bbhhtt/article/details/81156437</br>
-https://bbs.csdn.net/topics/390930955?page=1
+https://bbs.csdn.net/topics/390930955?page=1</br>
+https://blog.csdn.net/Gordon_Wei/article/details/85236064
