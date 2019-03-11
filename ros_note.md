@@ -250,3 +250,6 @@ https://blog.csdn.net/zmdsjtu/article/details/53432177  (修改为  movel(p[x,y,
 
 ### robot web
 http://www.yairobot.com/
+
+### ros ur script
+https://blog.csdn.net/coldplayplay/article/details/78880144
