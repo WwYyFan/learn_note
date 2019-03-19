@@ -253,3 +253,6 @@ http://www.yairobot.com/
 
 ### ros ur script
 https://blog.csdn.net/coldplayplay/article/details/78880144
+
+### ros find opencv
+https://blog.csdn.net/innocent_sheld/article/details/87996135
