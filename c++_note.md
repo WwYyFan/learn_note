@@ -120,3 +120,6 @@ int *(&refs)[10] refs引用一个含有10个整形指针的数组
 
 ### 20190323
 - const_cast 只能改变运算对象的底层const，所以左右两边应该类型相同
+
+### 20190326
+- ACM:https://www.cnblogs.com/TQCAI/category/1164415.html
