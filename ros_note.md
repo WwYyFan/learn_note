@@ -262,3 +262,6 @@ https://wenku.baidu.com/view/8c8b7f1749d7c1c708a1284ac850ad02df800730.html?pn=10
 
 ### ur movep 交融半径解释
 https://www.crossco.com/blog/universal-robots-provides-unique-solution-dispensing-applications
+
+### linux qtcreator vtk
+https://blog.csdn.net/qq_25244255/article/details/87182855
