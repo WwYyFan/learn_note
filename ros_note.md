@@ -265,3 +265,10 @@ https://www.crossco.com/blog/universal-robots-provides-unique-solution-dispensin
 
 ### linux qtcreator vtk
 https://blog.csdn.net/qq_25244255/article/details/87182855
+
+
+### python ur socket
+```
+1.如果没有一次性接收ur返回的所有字节信息，则再下一次接收数据前应该关闭当前socket连接，并重新连接，不然可能接收到上一个包的残余字节数据
+2.在发送完指令后，需要sleep， 测试 movel指令sleep(0.001)  set_standard_digital_out指令sleep(0.5)
+```
