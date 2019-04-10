@@ -273,4 +273,7 @@ https://blog.csdn.net/qq_25244255/article/details/87182855
 2.在发送完指令后，需要sleep， 测试 movel指令sleep(0.001)  set_standard_digital_out指令sleep(0.5)
 ```
 ### socket 注意事项
-https://www.cnblogs.com/CodeMIRACLE/p/5122063.html
+https://www.cnblogs.com/CodeMIRACLE/p/5122063.html </br>
+https://www.cnblogs.com/dolphin0520/archive/2011/10/02/2198280.html</br>
+https://blog.csdn.net/LSG_Down/article/details/81000692</br>
+https://blog.csdn.net/s634772208/article/details/85042947
