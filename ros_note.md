@@ -186,7 +186,8 @@ https://blog.csdn.net/weixin_28900531/article/details/79431055
 https://github.com/epfl-lasa/ridgeback_ur5_controller
 
 ### ros kinect
-https://blog.csdn.net/sunyoop/article/details/78517247
+https://blog.csdn.net/sunyoop/article/details/78517247</br>
+https://blog.csdn.net/weixin_41038905/article/details/80907580
 
 ### ros ork
 https://blog.csdn.net/zhuoyueljl/article/details/78965434</br>
