@@ -169,7 +169,7 @@ http://www.guyuehome.com/1921</br>
 
 ### ros 坐标系
 https://blog.csdn.net/scliu12345/article/details/44658175</br>
-
+https://www.jianshu.com/p/bb1f579e37ca</br>
 ### ros plugin
 https://ros.guru/2018/02/12/10-useful-ros-tools/</br>
 stereo_image_proc会自动根据camera校正结果发布修正后的图像和3D的topic.
