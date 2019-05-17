@@ -14,3 +14,6 @@ https://blog.csdn.net/libing403/article/details/89344476
 
 ### pcl 
 http://robotica.unileon.es/index.php/PhD-3D-Object-Tracking
+
+### pca解释
+https://blog.csdn.net/sinat_24206709/article/details/77744591
