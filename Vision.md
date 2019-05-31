@@ -17,3 +17,7 @@ http://robotica.unileon.es/index.php/PhD-3D-Object-Tracking
 
 ### pca解释
 https://blog.csdn.net/sinat_24206709/article/details/77744591
+
+
+### 光栅建模（基于时间相位展开的双目）
+https://www.docin.com/p-300478610.html?docfrom=rrela
