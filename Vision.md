@@ -21,4 +21,5 @@ https://blog.csdn.net/sinat_24206709/article/details/77744591
 
 ### 光栅建模（基于时间相位展开的双目）
 https://www.docin.com/p-300478610.html?docfrom=rrela</br>
-http://www.doc88.com/p-0969787214504.html (极限几何匹配)
+http://www.doc88.com/p-0969787214504.html (极限几何匹配)</br>
+https://max.book118.com/html/2017/0505/104563374.shtm
