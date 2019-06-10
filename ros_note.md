@@ -266,8 +266,15 @@ https://www.crossco.com/blog/universal-robots-provides-unique-solution-dispensin
 
 ### linux qtcreator vtk
 https://blog.csdn.net/qq_25244255/article/details/87182855</br>
-将VTK-7.1.1/build/lib/libQVTKWidgetPlugin.so 拷贝到 Qt5.8.0/Tools/QtCreator/lib/Qt/plugins/designer/
-
+将VTK-7.1.1/build/lib/libQVTKWidgetPlugin.so 拷贝到 Qt5.8.0/Tools/QtCreator/lib/Qt/plugins/designer/</br>
+qtcreator工程pro添加vtk include和lib路径
+```
+INCLUDEPATH += /home/ieeeee/VTKInstall/vtk-9.0
+LIBS += -L/home/ieeeee/VTKInstall/VTKso/ \
+-lvtkChartsCore-9.0 \
+-lvtkCommonColor-9.0 \
+....(全部的so文件，记得这里不需要写so这个后缀)
+```
 
 ### python ur socket
 ```
