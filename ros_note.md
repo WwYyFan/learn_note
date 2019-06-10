@@ -265,7 +265,8 @@ https://wenku.baidu.com/view/8c8b7f1749d7c1c708a1284ac850ad02df800730.html?pn=10
 https://www.crossco.com/blog/universal-robots-provides-unique-solution-dispensing-applications
 
 ### linux qtcreator vtk
-https://blog.csdn.net/qq_25244255/article/details/87182855
+https://blog.csdn.net/qq_25244255/article/details/87182855</br>
+将VTK-7.1.1/build/lib/libQVTKWidgetPlugin.so 拷贝到 Qt5.8.0/Tools/QtCreator/lib/Qt/plugins/designer/
 
 
 ### python ur socket
