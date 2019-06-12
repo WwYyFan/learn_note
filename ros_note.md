@@ -259,7 +259,8 @@ https://blog.csdn.net/coldplayplay/article/details/78880144
 https://blog.csdn.net/innocent_sheld/article/details/87996135
 
 ### ur 官方文档
-https://wenku.baidu.com/view/8c8b7f1749d7c1c708a1284ac850ad02df800730.html?pn=101
+https://wenku.baidu.com/view/8c8b7f1749d7c1c708a1284ac850ad02df800730.html?pn=101</br>
+http://me.umn.edu/courses/me5286/robotlab/Resources/scriptManual-3.5.4.pdf
 
 ### ur movep 交融半径解释
 https://www.crossco.com/blog/universal-robots-provides-unique-solution-dispensing-applications
