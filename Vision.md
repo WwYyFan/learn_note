@@ -14,7 +14,7 @@ https://blog.csdn.net/libing403/article/details/89344476
 
 ### pcl 
 http://robotica.unileon.es/index.php/PhD-3D-Object-Tracking</br>
-http://robotica.unileon.es/index.php/PCL/OpenNI_tutorial_4:_3D_object_recognition_(descriptors)(各种特征描述子的使用)
+http://robotica.unileon.es/index.php/PCL/OpenNI_tutorial_4:_3D_object_recognition_(descriptors)  (各种特征描述子的使用)
 ### pca解释
 https://blog.csdn.net/sinat_24206709/article/details/77744591
 
