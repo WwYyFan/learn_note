@@ -266,6 +266,7 @@ http://me.umn.edu/courses/me5286/robotlab/Resources/scriptManual-3.5.4.pdf
 https://www.crossco.com/blog/universal-robots-provides-unique-solution-dispensing-applications
 
 ### linux qtcreator vtk
+https://blog.csdn.net/Bing_Lee/article/details/82633046</br>
 https://blog.csdn.net/qq_25244255/article/details/87182855</br>
 1.将VTK-7.1.1/build/lib/libQVTKWidgetPlugin.so 拷贝到 Qt5.8.0/Tools/QtCreator/lib/Qt/plugins/designer/</br>
 2.qtcreator工程pro添加vtk include和lib路径
