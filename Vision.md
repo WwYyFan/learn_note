@@ -23,3 +23,6 @@ https://blog.csdn.net/sinat_24206709/article/details/77744591
 https://www.docin.com/p-300478610.html?docfrom=rrela</br>
 http://www.doc88.com/p-0969787214504.html (极限几何匹配)</br>
 https://max.book118.com/html/2017/0505/104563374.shtm
+
+### 自制激光扫描
+http://www.csksoft.net/blog/post/lowcost_3d_laser_ranger_1.html
