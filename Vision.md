@@ -26,3 +26,6 @@ https://max.book118.com/html/2017/0505/104563374.shtm
 
 ### 自制激光扫描
 http://www.csksoft.net/blog/post/lowcost_3d_laser_ranger_1.html
+
+### 生成标定纸网站
+https://calib.io/pages/camera-calibration-pattern-generator
