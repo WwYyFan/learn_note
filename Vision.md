@@ -3,7 +3,9 @@ https://blog.csdn.net/hepan0818/article/details/80455093</br>
 https://blog.csdn.net/BetterEthan/article/details/81812548
 
 ### 标定
-https://www.cnblogs.com/zyly/p/9366080.html
+https://www.cnblogs.com/zyly/p/9366080.html</br>
+https://www.zhihu.com/question/29448299</br>
+https://zhuanlan.zhihu.com/p/24651968
 
 ### 三维重建
 https://www.cnblogs.com/fujj/p/9601780.html</br>
