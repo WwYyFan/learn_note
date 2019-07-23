@@ -24,7 +24,9 @@ https://blog.csdn.net/sinat_24206709/article/details/77744591
 ### 光栅建模（基于时间相位展开的双目）
 https://www.docin.com/p-300478610.html?docfrom=rrela</br>
 http://www.doc88.com/p-0969787214504.html (极限几何匹配)</br>
-https://max.book118.com/html/2017/0505/104563374.shtm
+https://max.book118.com/html/2017/0505/104563374.shtm</br>
+http://www.52rd.com/S_TXT/2018_1/TXT102369.htm 结构光编码 </br>
+http://www.360doc.com/content/15/1201/16/9200790_517198987.shtml 激光散斑原理
 
 ### 自制激光扫描
 http://www.csksoft.net/blog/post/lowcost_3d_laser_ranger_1.html
