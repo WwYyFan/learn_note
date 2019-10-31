@@ -17,4 +17,6 @@ vps   : linode
 google SwitchyOmega :  https://blog.csdn.net/shouldnotappearcalm/article/details/77900399
 ```
 
+chrome插件 setupVpn :https://www.crx4chrome.com/crx/36007/
+
 jump jump jump!!!!
