@@ -39,3 +39,7 @@ http://www.csksoft.net/blog/post/lowcost_3d_laser_ranger_1.html
 
 ### 生成标定纸网站
 https://calib.io/pages/camera-calibration-pattern-generator
+
+### 结构光 蓝光为什么比白光好？
+https://3space.com/blog/white-light-vs-blue-light-3d-scanning/ </br>
+https://www.dentalreview.news/technology/33-dental-laboratory-equipment/2144-digital-dentistry-scanning-why-blue-light
